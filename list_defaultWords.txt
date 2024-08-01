@@ -1,0 +1,43 @@
+[Capitalize These Words]
+#
+# It doesn't matter if they are uppercase or lowercase
+#   type away at your hearts content 
+#
+# Just make sure you put the words on new lines
+#
+# Lines starting with "#" are ignored so you can leave little
+#   comments like these
+#
+Allowable
+Allowed Amount
+Auth 
+Billed Charges
+Claim Note
+Claims Inquiry
+Clinical Edit
+Coins
+coinsurance
+copay
+deductible
+Error Message
+Facility 
+High tech Imaging
+Hospital
+In Network
+Inquiry
+Member Note
+memo
+modifier
+original claim
+out of network
+preventive
+primary
+procedure code
+professional 
+replacement claim
+secondary
+service rule
+static area message
+Subscriber
+User Warning Message
+Warning Message
